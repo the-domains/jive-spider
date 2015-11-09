@@ -1,0 +1,20 @@
+---
+description: "Spending review: George Osborne 'secures deals' on 30% cuts 3 hours ago  From the section UK Image copyrightGetty Images Image caption Mr Osborne will reveal hi"
+author: []
+datePublished: '2015-11-09T07:06:36.863Z'
+publisher:
+  domain: www.bbc.co.uk
+  name: bbc.co.uk
+title: ''
+dateModified: '2015-11-09T07:06:19.298Z'
+sourcePath: _posts/2015-11-09-spending-review-george-osborne-secures-deals-on-30-cuts.md
+published: true
+inFeed: true
+hasPage: true
+inNav: false
+url: spending-review-george-osborne-secures-deals-on-30-cuts/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+Spending review: George Osborne 'secures deals' on 30% cuts 3 hours ago From the section UK Image copyrightGetty Images Image caption Mr Osborne will reveal his spending review later in the month Four government departments have provisionally agreed to cut their spending by an average of 30% over the next four years, Chancellor George Osborne is to announce later. The transport, local government and environment departments, plus the Treasury, have all agreed deals ahead of the spending review on 25 November. The cuts will help the public finances back into surplus, he will say. A Treasury source told BBC News the agreements were "really good progress". Spending review: Nine new prisons to replace old jails 'Confidence risk' The departments will be expected to cut day-to-day spending over the next four years through a combination of efficiency savings and closing low value programmes. Negotiations are continuing with others, the source added. No-one knows what the next economic crisis to hit our world will be, or when it will come. But we know we haven't abolished boom and bust George Osborne, Chancellor The chancellor has asked most parts of the government to come up with savings of between 25% and 40% by the end of the current parliament. A number of departments, including health and overseas aid, have had their budgets protected. In a speech later in London, Mr Osborne will warn that if the government does not control spending there is a risk of loss of confidence in the economy. "The deficit could bring our country down," he will say. "While debt is high, our economic security is in danger. "No-one knows what the next economic crisis to hit our world will be, or when it will come. But we know we haven't abolished boom and bust." 'Resisting attempts' One department which has not yet reached an agreement is the Department for Work and Pensions, from where Mr Osborne is seeking £12bn in welfare savings. The chancellor is currently seeking new ways to save £4bn after the House of Lords rejected legislation paving the way for working tax credit cuts. But Work and Pensions Secretary Iain Duncan Smith is strongly resisting attempts by the Treasury to make Universal Credit less generous, the BBC understands. Image copyrightPA Universal Credit is a new type of benefit designed to support people who are on a low income or out of work. It is replacing six existing benefits - income-based jobseeker's allowance, income-related employment and support allowance, income support, child tax credit, working tax credit, and housing benefit. Resigning matter? But Treasury officials are thought to be considering increasing the penalties faced by claimants who take extra work. It has prompted speculation over whether Mr Duncan Smith might resign over the row. But asked on the BBC's Andrew Marr Show if Mr Duncan Smith would leave, Foreign Secretary Philip Hammond said: "I don't think so." Image copyrightReuters Image caption Mr Cameron is to say the forthcoming spending review will protect working families Also on Monday, Prime Minister David Cameron will address the annual conference of business lobbying group, the CBI. He will say that the spending review, which sets out where government cuts will fall over the next five years, will be about putting the security of UK families first. "By making the further savings we need over the course of this parliament, we can prioritise what matters for working families - schools, the NHS and our national security," Mr Cameron is expected to say.
