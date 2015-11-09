@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[JiveSpider]]></title>
         <description><![CDATA[JiveSpider]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jive-spider/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 11:40:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 11:40:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jive-spider/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Queen Leads Remembrance Sunday Tributes In London]]></title>
+            <description><![CDATA[<article><h1>The Queen Leads Remembrance Sunday Tributes In London</h1><p>The ceremony at the Cenotaph in Whitehall commemorated those who have lost their lives in battle for Britain.</p><img src="http://s3-static-ak.buzzfed.com/static/2015-11/8/7/campaign_images/webdr05/the-queen-leads-remembrance-sunday-tributes-in-lo-2-14988-1446985305-0_dblbig.jpg"></article>]]></description>
+            <link>http://www.buzzfeed.com/laurasilver/the-queen-leads-remembrance-day-tributes-in-london#.ry2qvgvBM</link>
+            <guid isPermaLink="false">66fb153b-aefb-47dd-b2f8-3a5f66edde5c</guid>
+            <pubDate>Mon, 09 Nov 2015 11:40:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet The North Koreans Who Went Through Hell To Reach London's Suburbs]]></title>
             <description><![CDATA[<article><h1>Meet The North Koreans Who Went Through Hell To Reach London's Suburbs</h1><p>On the second floor of a building behind a Krispy Kreme doughnut shop in the London suburb of New Malden, a small team is producing Free NK, a pro-democracy North Korean newspaper. The paper's editor, Joo-Il Kim, has lived in the area since fleeing North Korea a decade ago, and says he loves it in the UK.</p><img src="http://s3-static-ak.buzzfed.com/static/2015-11/8/8/campaign_images/webdr13/meet-the-north-koreans-who-went-through-hell-to-r-2-30233-1446988647-0_dblbig.jpg"></article>]]></description>
