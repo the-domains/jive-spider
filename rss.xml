@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JiveSpider]]></title>
+        <description><![CDATA[JiveSpider]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 Nov 2015 11:40:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet The North Koreans Who Went Through Hell To Reach London's Suburbs]]></title>
+            <description><![CDATA[<article><h1>Meet The North Koreans Who Went Through Hell To Reach London's Suburbs</h1><p>On the second floor of a building behind a Krispy Kreme doughnut shop in the London suburb of New Malden, a small team is producing Free NK, a pro-democracy North Korean newspaper. The paper's editor, Joo-Il Kim, has lived in the area since fleeing North Korea a decade ago, and says he loves it in the UK.</p><img src="http://s3-static-ak.buzzfed.com/static/2015-11/8/8/campaign_images/webdr13/meet-the-north-koreans-who-went-through-hell-to-r-2-30233-1446988647-0_dblbig.jpg"></article>]]></description>
+            <link>http://www.buzzfeed.com/mayaruthoppenheim/meet-the-north-koreans-who-went-through-hell-to-reach-london#.unNGnen10</link>
+            <guid isPermaLink="false">238dbf5b-6e0e-453d-8d32-20176545f0c1</guid>
+            <pubDate>Mon, 09 Nov 2015 11:40:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
