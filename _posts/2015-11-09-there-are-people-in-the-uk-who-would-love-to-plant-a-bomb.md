@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.buzzfeed.com'
-  name: BuzzFeed
-  favicon: 'http://s3-ak.buzzfed.com/static/favicon.ico?v=1446840579'
-  domain: www.buzzfeed.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - hammond
   - airports
@@ -18,17 +16,21 @@ keywords:
   - security
   - isis
 description: 'There are people in the UK who would "love" to plant a bomb on an aeroplane, the foreign secretary has said. Speaking on the Andrew Marr Show, Philip Hammond said the level of security in UK airports has stopped people from smuggling explosives onto airplanes for decades and that it should be the example to follow throughout the world, even if it meant additional costs and delays at airports in areas where ISIS is active.'
-inLanguage: en
+datePublished: '2015-11-09T12:05:25.651Z'
+dateModified: '2015-11-09T12:04:51.967Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.buzzfeed.com/jamieross/there-are-people-in-the-uk-who-would-love-to-pla'
 title: 'There Are People In The UK Who Would "Love" To Plant A Bomb On A Plane, Says Foreign Secretary'
-datePublished: '2015-11-09T11:44:46.419Z'
-dateModified: '2015-11-09T11:43:49.322Z'
 sourcePath: _posts/2015-11-09-there-are-people-in-the-uk-who-would-love-to-plant-a-bomb.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: BuzzFeed
+  domain: www.buzzfeed.com
+  url: 'http://www.buzzfeed.com'
+  favicon: 'http://s3-ak.buzzfed.com/static/favicon.ico?v=1446840579'
+url: there-are-people-in-the-uk-who-would-love-to-plant-a-bomb/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
