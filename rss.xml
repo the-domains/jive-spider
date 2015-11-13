@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jive Spider]]></title>
+        <description><![CDATA[Jive Spider]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 13 Nov 2015 18:04:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Creamy mushroom, garlic and cracked black peppercorn steak sauce.]]></title>
+            <description><![CDATA[<h1>Creamy mushroom, garlic and cracked black peppercorn steak sauce.</h1>]]></description>
+            <link>undefinedcreamy-mushroom-garlic-and-cracked-black-peppercorn-steak-s/index.html</link>
+            <guid isPermaLink="false">a3972066-ad63-4caf-be4b-dacb1e31ccf2</guid>
+            <pubDate>Fri, 13 Nov 2015 18:04:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
