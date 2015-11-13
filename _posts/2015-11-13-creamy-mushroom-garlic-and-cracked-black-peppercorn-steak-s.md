@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-13T18:04:39.867Z'
-dateModified: '2015-11-13T18:04:34.948Z'
+datePublished: '2015-11-13T18:09:03.865Z'
+dateModified: '2015-11-13T18:08:33.352Z'
 title: 'Creamy mushroom, garlic and cracked black peppercorn steak sauce.'
 sourcePath: _posts/2015-11-13-creamy-mushroom-garlic-and-cracked-black-peppercorn-steak-s.md
 published: true
@@ -23,9 +23,4 @@ _type: Article
 
 ---
 # Creamy mushroom, garlic and cracked black peppercorn steak sauce.
-
-* Melt some butter in a pan on a low heat.
-* Mix in a tablespoon and a half of strong white flour.
-* Slice some mushrooms into a glass bowl with a beef stock cube and cover with boiling water - mix gently until the cube dissolves.
-* Pour the mushroom/stock in to the pan with the flour/butter mix (called a roux) and keep stirring over a LOW heat. If it gets a bit too thick then add a bit more water as you go.
-* Add cracked black peppercorns and dried garlic to your own taste - but don't taste too much as it is going to go all over that lovely ribeye.
+null
