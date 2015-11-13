@@ -1,23 +1,23 @@
 ---
-inFeed: false
-hasPage: false
+inFeed: true
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-13T18:01:48.876Z'
-dateModified: '2015-11-13T18:00:29.714Z'
+datePublished: '2015-11-13T18:04:39.867Z'
+dateModified: '2015-11-13T18:04:34.948Z'
 title: 'Creamy mushroom, garlic and cracked black peppercorn steak sauce.'
+sourcePath: _posts/2015-11-13-creamy-mushroom-garlic-and-cracked-black-peppercorn-steak-s.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-13-creamy-mushroom-garlic-and-cracked-black-peppercorn-steak-s.md
-published: true
+url: creamy-mushroom-garlic-and-cracked-black-peppercorn-steak-s/index.html
 _context: 'http://schema.org'
 _type: Article
 
