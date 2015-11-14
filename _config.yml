@@ -1,7 +1,7 @@
 name: Jive Spider
 favicon: null
-layout_spectrum: 0.758
-typography_spectrum: 0
+layout_spectrum: 1
+typography_spectrum: 0.5
 title: Jive Spider
 cta:
   domain: null
