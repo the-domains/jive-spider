@@ -1,4 +1,23 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
+keywords:
+  - hebdo
+  - 7g9cdeinuj
+  - parisattacks
+  - twitter
+  - location
+  - champagne
+  - tweet
+  - auskar
+  - re-tweets
+  - charlie
+description: 'Charlie Hebdo unveils its latest edition since the #ParisAttacks: "They have weapons. F*@k them, we have Champagne!"'
+datePublished: '2015-11-17T15:00:13.599Z'
+dateModified: '2015-11-17T14:59:41.398Z'
 author:
   - name: auskarsurbakti
     url: 'http://twitter.com/auskarsurbakti'
@@ -23,34 +42,17 @@ author:
           - 182
           - 215
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - hebdo
-  - 7g9cdeinuj
-  - parisattacks
-  - twitter
-  - location
-  - champagne
-  - tweet
-  - auskar
-  - re-tweets
-  - charlie
-description: 'Charlie Hebdo unveils its latest edition since the #ParisAttacks: "They have weapons. F*@k them, we have Champagne!"'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://twitter.com/AuskarSurbakti/status/666566182175027200/photo/1'
-datePublished: '2015-11-17T14:59:05.467Z'
 title: ''
-dateModified: '2015-11-17T14:58:34.176Z'
 sourcePath: _posts/2015-11-17-charlie-hebdo-unveils-its-latest-edition-since-the-parisatt.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
+url: charlie-hebdo-unveils-its-latest-edition-since-the-parisatt/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
