@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-18T15:25:40.372Z'
-dateModified: '2015-11-18T15:25:29.924Z'
+datePublished: '2015-11-18T15:27:02.158Z'
+dateModified: '2015-11-18T15:26:55.426Z'
 author:
   - name: Newick Rugby Football Club
     url: 'http://facebook.com/128891170528947'
@@ -29,3 +29,4 @@ _context: 'http://schema.org'
 
 ---
 ![](https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-xat1/t31.0-0/p480x480/11246174_840527552698635_8073881540370584288_o.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d6f108-5a1e-42a0-a23b-efc6509dbeaf.png)
