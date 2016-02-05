@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bbc.co.uk/news/uk-england-norfolk-35491621'
 title: Sperm whale stranded on Hunstanton beach - BBC News
-datePublished: '2016-02-05T06:46:00.359Z'
-dateModified: '2016-02-05T06:46:00.095Z'
+datePublished: '2016-02-05T06:46:18.803Z'
+dateModified: '2016-02-05T06:46:18.763Z'
 sourcePath: _posts/2016-02-05-sperm-whale-stranded-on-hunstanton-beach-bbc-news.md
 published: true
 inFeed: true
