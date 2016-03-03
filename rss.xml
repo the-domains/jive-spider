@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Jivespider]]></title>
+        <description><![CDATA[Jivespider]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 11:24:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kit Wilson Trust - How to Help]]></title>
+            <description><![CDATA[<article><h1>Kit Wilson Trust - How to Help</h1><p>Have you heard about easyfundraising yet? It's the easiest way to help raise money for The Kit Wilson Trust for Animal Welfare! If you already shop online with retailers such as Amazon, M&S, Argos, John Lewis, Comet, Vodafone, eBay, Boden and Play.com, then we need you to sign up for free to raise money while you shop!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/70d7c16dc750098c9c0eb8a71db235abece6fa9f.png"></article>]]></description>
+            <link>http://kitwilsontrust.org.uk/howtohelp.html</link>
+            <guid isPermaLink="false">0fc2191f-b1bc-4b8d-b8f1-9bf6660f2cd3</guid>
+            <pubDate>Thu, 03 Mar 2016 11:24:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
