@@ -1,20 +1,4 @@
-name: Jive Spider
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.5
-title: Jive Spider
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#d2d2d4'
@@ -22,8 +6,13 @@ color:
     - '#0064a8'
     - '#506688'
     - '#9ba5b9'
-  brandStrength: 0
+  brandStrength: 0.658717
   lightness: 0.625
-  saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.490131
+  saturation: 0.515625
+cta: {}
+layout_spectrum: 0
+name: Jive Spider
+opengraph: {}
 purpose: []
+typography_spectrum: 0.611842
